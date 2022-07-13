@@ -1,0 +1,9 @@
+#card-mode-button,
+#list-mode-button {
+  font-size: 24px;
+  cursor: pointer;
+}
+
+#data-panel {
+  margin: 0 5px 15px 5px;
+}
